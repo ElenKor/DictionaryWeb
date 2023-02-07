@@ -1,0 +1,17 @@
+/Users/elina/Projects/DigitalDes.WebApi/DigitalDesConsole/bin/Debug/net6.0/DigitalDesConsole
+/Users/elina/Projects/DigitalDes.WebApi/DigitalDesConsole/bin/Debug/net6.0/DigitalDesConsole.deps.json
+/Users/elina/Projects/DigitalDes.WebApi/DigitalDesConsole/bin/Debug/net6.0/DigitalDesConsole.runtimeconfig.json
+/Users/elina/Projects/DigitalDes.WebApi/DigitalDesConsole/bin/Debug/net6.0/DigitalDesConsole.dll
+/Users/elina/Projects/DigitalDes.WebApi/DigitalDesConsole/bin/Debug/net6.0/DigitalDesConsole.pdb
+/Users/elina/Projects/DigitalDes.WebApi/DigitalDesConsole/obj/Debug/net6.0/DigitalDesConsole.csproj.AssemblyReference.cache
+/Users/elina/Projects/DigitalDes.WebApi/DigitalDesConsole/obj/Debug/net6.0/DigitalDesConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elina/Projects/DigitalDes.WebApi/DigitalDesConsole/obj/Debug/net6.0/DigitalDesConsole.AssemblyInfoInputs.cache
+/Users/elina/Projects/DigitalDes.WebApi/DigitalDesConsole/obj/Debug/net6.0/DigitalDesConsole.AssemblyInfo.cs
+/Users/elina/Projects/DigitalDes.WebApi/DigitalDesConsole/obj/Debug/net6.0/DigitalDesConsole.csproj.CoreCompileInputs.cache
+/Users/elina/Projects/DigitalDes.WebApi/DigitalDesConsole/obj/Debug/net6.0/DigitalDesConsole.dll
+/Users/elina/Projects/DigitalDes.WebApi/DigitalDesConsole/obj/Debug/net6.0/refint/DigitalDesConsole.dll
+/Users/elina/Projects/DigitalDes.WebApi/DigitalDesConsole/obj/Debug/net6.0/DigitalDesConsole.pdb
+/Users/elina/Projects/DigitalDes.WebApi/DigitalDesConsole/obj/Debug/net6.0/DigitalDesConsole.genruntimeconfig.cache
+/Users/elina/Projects/DigitalDes.WebApi/DigitalDesConsole/obj/Debug/net6.0/ref/DigitalDesConsole.dll
+/Users/elina/Projects/DigitalDes.WebApi/DigitalDesConsole/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/elina/Projects/DigitalDes.WebApi/DigitalDesConsole/obj/Debug/net6.0/DigitalDesConsole.csproj.CopyComplete

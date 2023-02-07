@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{64DB52B0-8A70-4570-8AD9-AF58D46A3BA3}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="DigitalDes.WebApi/Program.cs">
+    <Files>
+      <File FileName="DigitalDes.WebApi/Program.cs" Line="25" Column="1" />
+      <File FileName="DigitalDes.WebApi/appsettings.json" Line="1" Column="1" />
+      <File FileName="DigitalDes.WebApi/Controllers/DictionaryController.cs" Line="12" Column="2" />
+      <File FileName="DigitalDesConsole/Program.cs" Line="5" Column="28" />
+      <File FileName="DigitalDesConsole/Class1.cs" Line="69" Column="1" />
+      <File FileName="DigitalDesConsole/Execute.cs" Line="36" Column="39" />
+      <File FileName="DigitalDes.WebApi/Properties/launchSettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DigitalDes.WebApi" expanded="True" selected="True">
+            <Node name="DigitalDes.WebApi" expanded="True" />
+            <Node name="DigitalDesConsole" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DigitalDesConsole PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DigitalDes.WebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
